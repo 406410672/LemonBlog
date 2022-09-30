@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{274:function(t,n,s){"use strict";s.r(n);var r=s(13),e=Object(r.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[t("img",{attrs:{src:"/1-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.png",alt:"操作系统"}})])])}),[],!1,null,null,null);n.default=e.exports}}]);
